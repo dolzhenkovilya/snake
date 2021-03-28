@@ -1,13 +1,13 @@
+C:\Users\Пользователь\Desktop\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.csproj.CoreCompileInputs.cache
 C:\Users\Пользователь\Desktop\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.exe
 C:\Users\Пользователь\Desktop\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.deps.json
 C:\Users\Пользователь\Desktop\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.runtimeconfig.json
 C:\Users\Пользователь\Desktop\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.runtimeconfig.dev.json
 C:\Users\Пользователь\Desktop\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.dll
 C:\Users\Пользователь\Desktop\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.pdb
-C:\Users\Пользователь\Desktop\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.csprojAssemblyReference.cache
-C:\Users\Пользователь\Desktop\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.AssemblyInfoInputs.cache
-C:\Users\Пользователь\Desktop\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.AssemblyInfo.cs
-C:\Users\Пользователь\Desktop\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.csproj.CoreCompileInputs.cache
 C:\Users\Пользователь\Desktop\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.dll
 C:\Users\Пользователь\Desktop\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.pdb
 C:\Users\Пользователь\Desktop\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.genruntimeconfig.cache
